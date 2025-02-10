@@ -1,8 +1,13 @@
+@font-face {
+    font-family: PP mori;
+    src: url(./fonts/ppmori.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: PP mori, 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #FEFCFF;
 }
 
